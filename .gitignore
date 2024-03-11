@@ -1,0 +1,9 @@
+__pycache__/
+docker-compose.yml
+dictionaries/*
+!dictionaries/readme.txt
+!dictionaries/sample_dict.npy
+.vscode/
+docker-compose.yml.template
+dockerfile
+surpriver-master.zip
